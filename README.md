@@ -1,2 +1,2 @@
 # Cityscript
-This is a city made of JavaScript
+This is a city made of ProcessingJS
